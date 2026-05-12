@@ -1,4 +1,3 @@
-# Nhập dữ liệu
 dai  = input("Nhập chiều dài đáy hình chữ nhật (cm): ")
 rong = input("Nhập chiều rộng đáy hình chữ nhật (cm): ")
 cao  = input("Nhập chiều cao hình khối chữ nhật (cm): ")
